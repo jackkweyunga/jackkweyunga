@@ -31,6 +31,6 @@ i am also a beginner in open-source. I learned a lot from the open-source commun
 
 <br>
 
-📈 my github stats
+<!-- 📈 my github stats -->
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackkweyunga&show_icons=true&theme=gotham" alt="jackkweyunga" /> -->
