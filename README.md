@@ -9,9 +9,7 @@
 <br />
 
 
-hi, i'm jack kweyunga, a passionate self-taught software engineer, a learning electronics engineer and a hobby writer from Tanzania. I like building stuff all the way and this is my drive force. I am love tech. because it is super helpfull and hyper profitable.
-
-i am also a beginner in open-source. I learned a lot from the open-source community and i would love to contribute back.
+hi, i'm jack kweyunga, I build and design software.
   
 - 💼 any freelance work? do reach, [email](jackkweyunga@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
