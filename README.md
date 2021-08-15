@@ -8,10 +8,11 @@
 
 <br />
 
+__Hi, I'm Jack Kweyunga. I am using reliable tools to design software solutions and tools for public consumption, commercial use, opensource, learning and fun 😄 ⚓.__
 
-hi, i'm jack kweyunga, I build and design software.
-  
-- 💼 any freelance work? do reach, [email](jackkweyunga@gmail.com) :)
+<br />
+
+- 💼 any freelance work? do reach, [email](jackkweyunga@gmail.com) 👍
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
