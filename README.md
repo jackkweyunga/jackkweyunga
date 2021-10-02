@@ -5,8 +5,8 @@
   <img align="left" alt="jack's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://tz.linkedin.com/in/jack-k-b7354017a?trk=profile-badge/">
-  <img align="left" alt="jack's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/jackkweyunga">
+  <img align="left" alt="jack's twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br />
