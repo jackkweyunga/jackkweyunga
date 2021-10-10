@@ -1,5 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I am on social media.
 
 <a href="https://tz.linkedin.com/in/jack-k-b7354017a?trk=profile-badge/">
   <img align="left" alt="jack's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -27,4 +28,4 @@ __Hi, I'm Jack Kweyunga. I am using reliable tools to design software solutions 
 
 <!-- 📈 my github stats -->
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackkweyunga&show_icons=true&theme=gotham" alt="jackkweyunga" /> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackkweyunga&show_icons=true&theme=gotham" alt="jackkweyunga" />
