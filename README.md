@@ -17,7 +17,7 @@ __Hi, I'm Jack Kweyunga. I am using reliable tools to design software solutions 
 
 <br />
 
-- 💼 any freelance work? do reach, [email](jackkweyunga@gmail.com) 👍
+- 💼 any freelance work? do reach out, jackkweyunga@gmail.com 👍
 - 💬 ask me about anything, i am happy to help;
 
 <h1 align="center"> My tech stack<h1>
